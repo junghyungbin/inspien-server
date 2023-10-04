@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+url:
+  directory: /Users/jeonghyeongbin/Desktop/Local
